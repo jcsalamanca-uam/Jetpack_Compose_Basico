@@ -1,4 +1,4 @@
-package com.example.practica
+package ni.edu.uam.example.jetpack_compose_basico
 
 import android.graphics.Bitmap
 import android.graphics.ImageDecoder
